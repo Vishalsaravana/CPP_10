@@ -1,4 +1,4 @@
-# D. TOPOLOGICAL SORT 
+# REPRESENTATION OF GRAPH
 ## PROGRAM STATEMENT:
 
 To write A C++ Program to represent the Adjacency Matrix.
